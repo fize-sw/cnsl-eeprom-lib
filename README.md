@@ -1,0 +1,1 @@
+ # COnsole's eeprom library
