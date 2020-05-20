@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.1)
-project (cnsl-eeprom)
+project (cnsl-eeprom-lib)
 set(CMAKE_BUILD_TYPE Release)
 
 file(GLOB libglv-eeprom-SRC "src/eeplib.c" "include/eeplib.h")
